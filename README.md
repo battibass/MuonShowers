@@ -1,7 +1,7 @@
 # MuonShowers
 
 This package adds a DataFormat and a EDProducer to fill muon shower related information.
-It also includes a test EDAnalyzer with an example of how to access the produced data.
+It also includes a test EDAnalyzer giving an example of how to access the produced data.
 
 ## Installation instructions
 
